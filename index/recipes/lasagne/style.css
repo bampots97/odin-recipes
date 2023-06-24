@@ -1,0 +1,40 @@
+* {
+    box-sizing: content-box;
+    text-align: center;
+}
+body {
+    background-color: rgba(0, 0, 0, 0.879);
+    text-align: center;
+    color: aliceblue;
+    font-size: 18px;
+}
+ol {
+    color:rgb(243, 229, 229)
+}
+.dir {
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+}
+
+ol {
+    padding-left: 0;
+}
+li {
+    margin-bottom: 10px;
+}
+#ing {
+    padding-left: 50px;
+}
+.onion {
+    color: aliceblue;
+    
+}
+.dod {
+list-style:decimal;
+    list-style-position: inside;
+}
+.not {
+   padding-left: 20px;
+}
+
